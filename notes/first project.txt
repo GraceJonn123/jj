@@ -4,3 +4,4 @@ the dot tells the script to install django in the current directory.
 OBJECTS:
 Object-oriented-programming
 modelling things and defining how they interact with each other.
+object:a collection of properties and acctions.
