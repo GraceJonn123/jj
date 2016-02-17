@@ -13,3 +13,4 @@ source myvenv/bin/activate
 or
 . myvenv/bin/activate
 (pip install django==1.9) is used to install django
+When writing regular expressions in Python it is always done with r in front of the string. This is a helpful hint for Python that the string may contain special characters that are not meant for Python itself, but for the regular expression instead.
