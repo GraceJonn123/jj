@@ -1,3 +1,4 @@
 a model in django is a special kind of object saved int the database
 it an also be a spreadsheeet with columns(fields) and rows(data)
 CREATING AN APP:
+cd
