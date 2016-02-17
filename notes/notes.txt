@@ -1,3 +1,5 @@
 Frameworks are designed to give us ready-made components we can use in making webs.
 Django is such a framework.
 URL- Uniform Resource Locator..
+How a urlresolver works..
+I imagine a mail carrier with a letter. She is walking down the street and checks each house number against the one on the letter. If it matches, she puts the letter there. This is how the urlresolver works!
