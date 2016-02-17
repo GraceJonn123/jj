@@ -1,0 +1,3 @@
+We start by making a "folder" that will contain all our django work.
+django-admin startproject mysite . for example..
+the dot tells the script to install django in the current directory.
