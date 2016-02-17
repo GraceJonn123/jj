@@ -1,0 +1,3 @@
+Frameworks are designed to give us ready-made components we can use in making webs.
+Django is such a framework.
+URL- Uniform Resource Locator..
