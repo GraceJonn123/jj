@@ -12,3 +12,4 @@ myenv can be activated in the terminal by typing
 source myvenv/bin/activate
 or
 . myvenv/bin/activate
+(pip install django==1.9) is used to install django
