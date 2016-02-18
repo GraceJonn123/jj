@@ -1,4 +1,4 @@
-#!/home/grace/Documents/djangogirls/myenv/bin/python
+#!/home/gracey/jj/djangogirls/myenv/bin/python
 
 import sys
 import getopt
