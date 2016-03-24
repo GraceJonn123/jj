@@ -9,11 +9,11 @@
         <title>Gracey's blog</title>
     </head>
     <body>
-      <div class="page-header">
+      <div class="header">
       {% if user.is_authenticated %}
         <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
         {% endif %}
-      <h1><a href="/">Graces' blog</a></h1>
+      <h1>Graces' blog</h1>
       <div class="content container">
         <div class="row">
           <div class="col-md-8">
