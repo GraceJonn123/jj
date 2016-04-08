@@ -2,17 +2,17 @@ h1 a{
   color: orange;
   text-align: center;
   font-family: 'Lobster';
-}
+}/*
 h1{
-    /*padding: 20px;*/
+    padding: 20px;
     padding-left: 150px;
 
-}
+}*/
 body{
   padding-left: 50px;
   background-color: #B700FA;
   text-align: center;
-  width: 100%;
+  /*width: 10%;*/
 }
 .header {
   margin-top: 0;
@@ -51,7 +51,7 @@ h1, h2, h3, h4 {
     font-size: 26pt;
     margin-right: 40px;
 }
-
+/*
 .post {
     margin-bottom: 70px;
 }
@@ -61,10 +61,23 @@ h1, h2, h3, h4 {
 }
 .row{
 
-}
-p{
+}*/
+*/p{
   width: 150%;
 }
 a{
   padding-left: 250px;
+}
+h1{
+  font-size: 240%;
+  text-align: center;;
+}
+h2{
+  font-size: 270%;
+  padding-left: 40%;
+}
+.content{
+  text-align: center;
+  width: 90%;
+  float: right;
 }
